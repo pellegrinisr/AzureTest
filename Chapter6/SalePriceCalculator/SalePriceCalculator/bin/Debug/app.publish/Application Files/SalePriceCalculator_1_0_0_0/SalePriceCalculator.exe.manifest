@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SalePriceCalculator.exe" version="1.0.0.0" publicKeyToken="61c114cd466b04f2" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SalePriceCalculator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="SalePriceCalculator.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SalePriceCalculator.exe" size="19424">
+      <assemblyIdentity name="SalePriceCalculator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>q4Lm3f9hXjIN6ZL94A2O/fkBTkH44N+xePLRi0KiyK8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="SalePriceCalculator.exe.config" size="188">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>j5XMowm9qYcyNWR87Ke1KpLLXBlaYAR38CaZywZFE9o=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=PELLEGRINISHPPC\spell" issuerKeyHash="5dafab0021bf74db2142d02721d4725aa4ceea92" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>y8DtfpoxXJGyMASnbMpVgD1K6EGAIkZsnGuHgBO81u0=</DigestValue></Reference></SignedInfo><SignatureValue>YjRXsg+x4tX8QEao+cazpGSGyFwKSgKbcrjO5hK4zs41fqClBog3AJBZxvzL+V9NvdXMYLqcmMhFtBEvLtWfPCPKuLUkSQIqPxIM5UBjox/MnrIu5dMKdFZNUSd2t9EUjrZUJe8BSTyZQL/MTmaMTn5M/Khe7IJySPoOK9KjWOQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>x0IR4jswlb5IVvbVHIpWS+xTZcDVOWO/HOFVjJSFm8YlEsDcZ1U7SSbUxTefpF+eOVWmx59SmltItkwyFJfO3sfOPMnl7CodyPlGpXP1qlYiU7HJF8RstqrDwdKijbCOn2LlelzdLBCaBdO6OJNdsYwZcOsuvE1PerZPOtidqcE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="edd6bc1380876b9c6c46228041e84a3d8055ca6ca70430b2915c319a7eedc0cb" Description="" Url=""><as:assemblyIdentity name="SalePriceCalculator.exe" version="1.0.0.0" publicKeyToken="61c114cd466b04f2" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=PELLEGRINISHPPC\spell</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>UNupW9Sqd8wJ9n/DVhIpMlmIPsKCzFRKxZJzFuN9d+8=</DigestValue></Reference></SignedInfo><SignatureValue>Wugapi/iyzwYoSKlJ+RrrD8NKBUnR+TdT70VW68mkbRJ08DFmIUr/aR8AUAWQO3hYuLTDmr/Dv+A1XucNw99aCOwK4l4XjRGRiUeAQJF6EBL+uqQnIoQyrv/mJ2EdU7ietsyMHZzpNYPSecmGL1KpkllvM796AUrMQyPm5NsSW8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>x0IR4jswlb5IVvbVHIpWS+xTZcDVOWO/HOFVjJSFm8YlEsDcZ1U7SSbUxTefpF+eOVWmx59SmltItkwyFJfO3sfOPMnl7CodyPlGpXP1qlYiU7HJF8RstqrDwdKijbCOn2LlelzdLBCaBdO6OJNdsYwZcOsuvE1PerZPOtidqcE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQH1CKh8myEIxHkh6fE8GZmTANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioAUABFAEwATABFAEcAUgBJAE4ASQBTAEgAUABQAEMAXABzAHAAZQBsAGwwHhcNMTcwNzE4MTk0MTE2WhcNMTgwNzE5MDE0MTE2WjA1MTMwMQYDVQQDHioAUABFAEwATABFAEcAUgBJAE4ASQBTAEgAUABQAEMAXABzAHAAZQBsAGwwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMdCEeI7MJW+SFb21RyKVkvsU2XA1TljvxzhVYyUhZvGJRLA3GdVO0km1MU3n6RfnjlVpsefUppbSLZMMhSXzt7HzjzJ5ewqHcj5RqVz9apWIlOxyRfEbLaqw8HSoo2wjp9i5Xpc3SwQmgXTujiTXbGMGXDrLrxNT3q2TzrYnanBAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAKTCMnRLYuBB1XgjF9tgREuhpZ59Rb0UFkyY6x4qGi89ng6MjkCoc2VEFyMgLjEhdIJbHnMeFxINK94M2FNPECwAaEFa/N2NoweU5jzBspd1u/Wwej0ZijGfanFhvHzYo9f4nOUV3a+8grsn6qC372GbX9jyyOkQQF28RzbGCYk0=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

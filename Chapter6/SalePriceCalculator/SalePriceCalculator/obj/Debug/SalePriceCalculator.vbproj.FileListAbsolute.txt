@@ -1,0 +1,26 @@
+C:\Users\spell\AppData\Local\Temporary Projects\SalePriceCalculator\bin\Debug\SalePriceCalculator.exe.config
+C:\Users\spell\AppData\Local\Temporary Projects\SalePriceCalculator\bin\Debug\SalePriceCalculator.exe
+C:\Users\spell\AppData\Local\Temporary Projects\SalePriceCalculator\bin\Debug\SalePriceCalculator.pdb
+C:\Users\spell\AppData\Local\Temporary Projects\SalePriceCalculator\bin\Debug\SalePriceCalculator.xml
+C:\Users\spell\AppData\Local\Temporary Projects\SalePriceCalculator\obj\Debug\SalePriceCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\spell\AppData\Local\Temporary Projects\SalePriceCalculator\obj\Debug\SalePriceCalculator.Form1.resources
+C:\Users\spell\AppData\Local\Temporary Projects\SalePriceCalculator\obj\Debug\SalePriceCalculator.Resources.resources
+C:\Users\spell\AppData\Local\Temporary Projects\SalePriceCalculator\obj\Debug\SalePriceCalculator.vbproj.GenerateResource.Cache
+C:\Users\spell\AppData\Local\Temporary Projects\SalePriceCalculator\obj\Debug\SalePriceCalculator.exe
+C:\Users\spell\AppData\Local\Temporary Projects\SalePriceCalculator\obj\Debug\SalePriceCalculator.xml
+C:\Users\spell\AppData\Local\Temporary Projects\SalePriceCalculator\obj\Debug\SalePriceCalculator.pdb
+C:\Users\spell\OneDrive\Documents\LATTC\Semester3\CIS_709\BookSampleCode\Chapter6\SalePriceCalculator\SalePriceCalculator\bin\Debug\SalePriceCalculator.exe.config
+C:\Users\spell\OneDrive\Documents\LATTC\Semester3\CIS_709\BookSampleCode\Chapter6\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.exe
+C:\Users\spell\OneDrive\Documents\LATTC\Semester3\CIS_709\BookSampleCode\Chapter6\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.xml
+C:\Users\spell\OneDrive\Documents\LATTC\Semester3\CIS_709\BookSampleCode\Chapter6\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.pdb
+C:\Users\spell\OneDrive\Documents\LATTC\Semester3\CIS_709\BookSampleCode\Chapter6\SalePriceCalculator\SalePriceCalculator\bin\Debug\SalePriceCalculator.exe
+C:\Users\spell\OneDrive\Documents\LATTC\Semester3\CIS_709\BookSampleCode\Chapter6\SalePriceCalculator\SalePriceCalculator\bin\Debug\SalePriceCalculator.pdb
+C:\Users\spell\OneDrive\Documents\LATTC\Semester3\CIS_709\BookSampleCode\Chapter6\SalePriceCalculator\SalePriceCalculator\bin\Debug\SalePriceCalculator.xml
+C:\Users\spell\OneDrive\Documents\LATTC\Semester3\CIS_709\BookSampleCode\Chapter6\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\spell\OneDrive\Documents\LATTC\Semester3\CIS_709\BookSampleCode\Chapter6\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.Form1.resources
+C:\Users\spell\OneDrive\Documents\LATTC\Semester3\CIS_709\BookSampleCode\Chapter6\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.Resources.resources
+C:\Users\spell\OneDrive\Documents\LATTC\Semester3\CIS_709\BookSampleCode\Chapter6\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.vbproj.GenerateResource.Cache
+C:\Users\spell\OneDrive\Documents\LATTC\Semester3\CIS_709\BookSampleCode\Chapter6\SalePriceCalculator\SalePriceCalculator\bin\Debug\SalePriceCalculator.exe.manifest
+C:\Users\spell\OneDrive\Documents\LATTC\Semester3\CIS_709\BookSampleCode\Chapter6\SalePriceCalculator\SalePriceCalculator\bin\Debug\SalePriceCalculator.application
+C:\Users\spell\OneDrive\Documents\LATTC\Semester3\CIS_709\BookSampleCode\Chapter6\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.exe.manifest
+C:\Users\spell\OneDrive\Documents\LATTC\Semester3\CIS_709\BookSampleCode\Chapter6\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.application
